@@ -6,6 +6,6 @@ package test.test;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Hello World!Fanbj");
+		System.out.println("Hello World!Fanbj@!21`2");
 	}
 }
